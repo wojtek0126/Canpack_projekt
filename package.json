@@ -1,0 +1,19 @@
+{
+  "name": "canpack_projekt",
+  "version": "1.0.0",
+  "description": "canpack_project",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass styles/sass/main.scss styles/css/style.css -w"
+  },  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wojtek0126/Canpack_projekt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wojtek0126/Canpack_projekt/issues"
+  },
+  "homepage": "https://github.com/wojtek0126/Canpack_projekt#readme"
+}
